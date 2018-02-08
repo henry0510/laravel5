@@ -28,4 +28,9 @@ class AuthServiceProvider extends ServiceProvider
 
         //
     }
+    
+    public function lct (  )
+    {
+        echo yese;
+    }
 }
